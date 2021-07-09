@@ -1,0 +1,27 @@
+.showtiming-class-container{
+   display: flex;
+   text-align: center;
+   flex-direction: column;
+   justify-content: center;
+   margin:30px auto;
+   width:60%;
+   padding-left:20px;
+   color: gold;
+
+}
+
+.showtiming-class-form{
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    margin:30px auto;
+    width:100%;
+    padding-left:20px;
+    color:white;
+ 
+ }
+
+.showtiming-class-container span{
+    padding: 5px;
+}
